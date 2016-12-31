@@ -9,6 +9,8 @@ Project("{535C8404-24E0-5249-9580-2344262EDCD0}") = "Puzzler", "Assembly-CSharp-
 EndProject
 Project("{535C8404-24E0-5249-9580-2344262EDCD0}") = "Puzzler", "Assembly-CSharp-Editor.csproj", "{6D7B1D97-CF0A-15F5-CB0F-6BB07B32F95E}"
 EndProject
+Project("{535C8404-24E0-5249-9580-2344262EDCD0}") = "Puzzler", "Assembly-UnityScript.unityproj", "{08624AA5-451C-F1E4-1FD7-6E34A419B1DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{6D7B1D97-CF0A-15F5-CB0F-6BB07B32F95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D7B1D97-CF0A-15F5-CB0F-6BB07B32F95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D7B1D97-CF0A-15F5-CB0F-6BB07B32F95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08624AA5-451C-F1E4-1FD7-6E34A419B1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08624AA5-451C-F1E4-1FD7-6E34A419B1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08624AA5-451C-F1E4-1FD7-6E34A419B1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08624AA5-451C-F1E4-1FD7-6E34A419B1DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

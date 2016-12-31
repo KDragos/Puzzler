@@ -40,6 +40,7 @@ public class GameLogic : MonoBehaviour {
 
 
 	public void puzzleSuccess() { //Do this when the player gets it right
+		playerWon = true;
 		toggleUI(3);
 		iTween.MoveTo (player, 
 			iTween.Hash (
